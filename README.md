@@ -7,6 +7,7 @@ module.exports = {
         language_talk: "French/English/Spanish",
         dead: false
     },
+}
 ```
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/users/922559378815602791)
