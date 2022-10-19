@@ -26,7 +26,7 @@ I'm also staff on many Discord servers *: my little passions* ! Administrator, m
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning *JavaScript (for some Discord bots and websites), HTML and CSS (for websites);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: `Bouse2Vache²#5991` on *Discord*.
+- 📫 How to reach me: `` on *Discord*.
 
 </br>
 
